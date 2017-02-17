@@ -1,0 +1,10 @@
+### Docker
+---
+
+##### * Docker Tensorflow GPU 테스트 환경 구축을 위한 Docker 적용기
+
+개발환경
+ - Ubuntu 16.04
+ - Docker 1.13
+ - Tensorflow
+=============
